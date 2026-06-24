@@ -32,6 +32,6 @@ Each project will have its own folder with:
 **Aman Badola**  
 Aspiring Data Scientist | GenAI Enthusiast  
 
-📌 LinkedIn: *aman-badola*  
+📌 LinkedIn: [Aman_Badola](https://www.linkedin.com/in/aman-badola/)
 ---
 
